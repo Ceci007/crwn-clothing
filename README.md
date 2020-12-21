@@ -1,4 +1,4 @@
-# To-Do List
+# Crwn Clothing
 
 #### Welcome to our E-Commerce with React and Redux project.
 
