@@ -1,0 +1,19 @@
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 100%;
+
+  .title {
+    font-size: 38px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+  } 
+
+  p {
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+  }
+}

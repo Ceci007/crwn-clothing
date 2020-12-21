@@ -19,18 +19,18 @@ const Header = ({ currentUser, hidden, signOutStart }) => (
       <Logo className="logo" />
     </Link>
     <div className="options">
-      <Link className="option" to="/shop">
+      <Link className="option nav-hover" to="/shop">
         SHOP
       </Link>
-      <Link className="option" to="/shop">
+      <Link className="option nav-hover" to="/contact">
         CONTACT
       </Link>
       {currentUser ? (
-        <div className="option" onClick={signOutStart}>
+        <div className="option nav-hover" onClick={signOutStart}>
           SIGN OUT
         </div>
       ) : (
-        <Link className="option" to="/signin">
+        <Link className="option nav-hover" to="/signin">
           SIGN IN
         </Link>
       )}
