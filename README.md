@@ -13,7 +13,7 @@
 ![screenshot](./app-screenshot.png)
 
 #### Livedemo
-- [heroku](https://e-commerce-ceci.herokuapp.com/)
+- [heroku](https://crwn-live.herokuapp.com/)
 
 
 ## Getting started
